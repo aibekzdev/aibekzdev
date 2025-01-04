@@ -1,43 +1,46 @@
-<!--
-**aibekzhumabekov/aibekzhumabekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aibek 👋 
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a **Software Engineer** with 6+ years of experience in building scalable and efficient software solutions. My expertise spans across:
+- **Languages**: JavaScript, Python, TypeScript, C, Java
+- **Frameworks/Platforms**: React, Node.js, Django, Spring Boot
+- **DevOps**: Docker, Kubernetes, CI/CD pipelines, AWS
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **Methodologies**: Agile, TDD, Microservices architecture
+
+When I'm not coding, I enjoy hiking, exploring new places, and reading books.
+
+## 🛠️ Skills & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=black)
+
+<!-- ## 🌟 Highlights
+
+### 🏆 Notable Achievements
+- Led the development of a **real-time analytics platform** used by 500+ businesses.
+- Architected a **microservices system** that improved system reliability by 40%.
+- Open-source contributor with 10+ projects (see pinned repositories below).
 -->
+### 🔭 Current Focus
+I'm currently exploring:
+- **AI/ML applications** in software engineering
+- **Web3 technologies** and their real-world applications
 
+<!--  ## 📈 GitHub Stats
 
-# Hi, I'm Aibek 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aibekzhumabekov&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aibekzhumabekov&layout=compact&theme=radical)
+-->
+## 📫 How to Reach Me
 
-Welcome to my GitHub profile! 
+- **Email**: [aibek.zhumabekov@proton.me](mailto:aibek.zhumabekov@proton.me)
+- **LinkedIn**: [linkedin.com/in/aibekzhumabekov](https://linkedin.com/in/aibekzhumabekov)
+- **Portfolio**: [aibek.me](https://aibek.me)
+---
 
-I'm a passionate Software Engineer with over 5 years of experience specializing in Frontend Development using JavaScript and React. 
-
-I love creating user-friendly, dynamic, and responsive web applications that solve real-world problems.
-
-## 🔄 Tech Stack & Expertise
-
-Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
-
-Frontend Frameworks: React, Redux, Next.js
-
-Styling: TailwindCSS, Styled-Components, Sass
-
-Tools & Platforms: Git, Webpack, Vite, npm, Yarn
-
-Testing: Jest, React Testing Library, Cypress
-
-Backend (Basic): Node.js, Express
-
-Version Control: Git, GitHub, GitLab
-
-## 📫 How to reach me
-
-Email: [aibek.zhumabekov@proton.me](mailto:aibek.zhumabekov@proton.me)
+Feel free to connect or check out my repositories below! 🌟
