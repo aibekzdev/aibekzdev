@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **aibekzhumabekov/aibekzhumabekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hi, I'm Aibek 👋
+
+Welcome to my GitHub profile! I'm a passionate Software Engineer with over 5 years of experience specializing in Frontend Development using JavaScript and React. I love creating user-friendly, dynamic, and responsive web applications that solve real-world problems.
