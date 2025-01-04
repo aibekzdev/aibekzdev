@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 
 # Hi, I'm Aibek 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer with over 5 years of experience specializing in Frontend Development using JavaScript and React. I love creating user-friendly, dynamic, and responsive web applications that solve real-world problems.
+Welcome to my GitHub profile! 
+
+I'm a passionate Software Engineer with over 5 years of experience specializing in Frontend Development using JavaScript and React. 
+
+I love creating user-friendly, dynamic, and responsive web applications that solve real-world problems.
 
 ## 🔄 Tech Stack & Expertise
 
