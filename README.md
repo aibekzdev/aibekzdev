@@ -17,3 +17,19 @@ Here are some ideas to get you started:
 ## Hi, I'm Aibek 👋
 
 Welcome to my GitHub profile! I'm a passionate Software Engineer with over 5 years of experience specializing in Frontend Development using JavaScript and React. I love creating user-friendly, dynamic, and responsive web applications that solve real-world problems.
+
+## 🔄 Tech Stack & Expertise
+
+Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
+
+Frontend Frameworks: React, Redux, Next.js
+
+Styling: TailwindCSS, Styled-Components, Sass
+
+Tools & Platforms: Git, Webpack, Vite, npm, Yarn
+
+Testing: Jest, React Testing Library, Cypress
+
+Backend (Basic): Node.js, Express
+
+Version Control: Git, GitHub, GitLab
