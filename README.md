@@ -37,3 +37,6 @@ Testing: Jest, React Testing Library, Cypress
 Backend (Basic): Node.js, Express
 
 Version Control: Git, GitHub, GitLab
+
+## 📫 How to reach me
+Email: aibek.zhumabekov@proton.me (mailto:aibek.zhumabekov@proton.me)
