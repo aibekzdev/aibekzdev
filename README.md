@@ -39,4 +39,5 @@ Backend (Basic): Node.js, Express
 Version Control: Git, GitHub, GitLab
 
 ## 📫 How to reach me
-Email: aibek.zhumabekov@proton.me (mailto:aibek.zhumabekov@proton.me)
+
+Email: [Aibek Zhumabekov](mailto:aibek.zhumabekov@proton.me)
