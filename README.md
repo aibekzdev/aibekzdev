@@ -38,8 +38,7 @@ I'm currently exploring:
 -->
 ## 📫 How to Reach Me
 
-- **Email**: [aibek.zhumabekov@proton.me](mailto:aibek.zhumabekov@proton.me)
-- **LinkedIn**: [linkedin.com/in/aibekzhumabekov](https://linkedin.com/in/aibekzhumabekov)
+- **Email**: [aibek.zhumabekov@proton.me](mailto:hi@aibek.me)
 - **Portfolio**: [aibek.me](https://aibek.me)
 ---
 
