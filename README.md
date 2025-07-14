@@ -1,4 +1,3 @@
 
 # Hi, I'm Aibek! 👋
-## I'm a passionate software engineer dedicated to crafting innovative solutions and building impactful projects online.
-#### www aibez dot dev
+## Software engineer based in USA
